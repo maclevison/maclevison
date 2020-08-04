@@ -6,7 +6,8 @@ I'm a creative front‑end developer with 11+ years of professional experience,
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maclevison)](https://www.linkedin.com/in/maclevison/)
 
-[Twitter Badge](https://img.shields.io/badge/-@maclevison-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maclevison)
+[![Twitter Badge](https://img.shields.io/badge/-@maclevison-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/maclevison) 
+
 
 <!--
 **maclevison/maclevison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
