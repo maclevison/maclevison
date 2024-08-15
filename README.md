@@ -1,6 +1,6 @@
 # Hi there
 
-<p align="left">Please call me Mac 😎<br><br>I’m a UX designer and UI developer. I design and develop experiences that make people's lives simple.<br><br>🔭 I’m currently working at PDMFC<br>👨🏻‍💻 I use daily: vue, typescript, tailwind css, Figma and other cool stuff<br>🌱 I’m currently learning Design systems</p>
+<p align="left">Please call me Mac 😎<br><br>I’m a UX engineer I design and develop experiences that make people's lives simple.<br><br>🔭 I’m currently working at PDMFC<br>👨🏻‍💻 I use daily: vue, typescript, tailwind css, Figma and other cool stuff<br>🌱 I’m currently learning Design systems</p>
 
 ###
 <div align="left">
