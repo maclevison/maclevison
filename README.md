@@ -1,5 +1,5 @@
 # 💫 About Me:
-Please call me Mac 😎<br><br>I’m a UX engineer I design and develop experiences that make people's lives simple.<br><br>🔭 I’m currently working at PDMFC<br>👨🏻‍💻 I use daily: Vue, Nuxt, typescript, tailwind css, Figma and other cool stuff<br>🌱 I’m currently learning Design systems
+Please call me Mac 😎<br><br>I’m a UX engineer I design and develop experiences that make people's lives simple.<br><br>👨🏻‍💻 I use daily: Vue, Nuxt, typescript, tailwind css, Figma and other cool stuff<br>🌱 I’m currently learning AI
 
 
 ## 🌐 Socials:
