@@ -1,6 +1,40 @@
-# 💫 About Me:
-Please call me Mac 😎<br><br>I’m a UX engineer I design and develop experiences that make people's lives simple.<br><br>👨🏻‍💻 I use daily: Vue, Nuxt, typescript, tailwind css, Figma and other cool stuff<br>🌱 I’m currently learning AI
+# 👋 Hey, I'm Mac
 
+**UI Engineer** crafting pixel-perfect, performant interfaces that users love.
+
+## 🎨 What I Do
+
+I transform design systems into production-ready code, building scalable UI architectures that balance aesthetics with performance. My approach combines deep frontend expertise with a designer's eye for detail.
+
+## 💻 Core Expertise
+
+**Modern Frontend Stack:**  
+Vue.js • Nuxt.js • TypeScript
+
+**UI & Styling:**  
+Tailwind CSS • CSS3 • Component Libraries • Design Systems
+
+**Performance & Quality:**  
+Code Optimization • Responsive Design • Accessibility • Cross-browser Compatibility
+
+**Workflow & Tooling:**  
+Git • Figma-to-Code • AI-assisted Development • Modern Build Tools
+
+## 🚀 My Approach
+
+- Writing clean, maintainable component architectures
+- Building reusable UI patterns that scale
+- Bridging the gap between design and implementation
+- Obsessing over micro-interactions and user experience details
+- Leveraging AI tools to accelerate development workflows
+
+## 🌟 Philosophy
+
+Great UI engineering isn't just about making things look good—it's about creating interfaces that are intuitive, accessible, and performant. I believe in writing code that developers enjoy maintaining and users love interacting with.
+
+**Always learning, always building.**
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maclevison) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maclevison) 
